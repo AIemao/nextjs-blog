@@ -21,7 +21,7 @@ export default function Post({ postData }) {
     </Layout>
   )
 }
-RESTE
+// ESTER
 
 export async function getStaticPaths() {
   const paths = getAllPostIds()
